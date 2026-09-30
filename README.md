@@ -73,14 +73,14 @@ Currently strengthening my foundations in **Python, Data Science, Machine Learni
 
 - 💼 **Portfolio:** [mdfazlerabbi.vercel.app](https://mdfazlerabbi.vercel.app)
 - 💻 **GitHub:** [github.com/Fazle240102](https://github.com/Fazle240102)
-- 💼 **LinkedIn:** [linkedin.com/in/fazle240102](https://www.linkedin.com/in/fazle240102)
+- 💼 **LinkedIn:** [linkedin.com/in/fazle240102](https://linkedin.com/in/fazle240102)
 - 📘 **Facebook:** [facebook.com/fazle.rabbi20046](https://facebook.com/fazle.rabbi20046)
 
 ---
 
 ## 🎯 Career Direction
 
-**AI/ML Engineer** with a strong foundation in software development, problem solving, and hands-on project building.
+**Aspiring AI/ML Engineer** with a strong foundation in software development, problem solving, and hands-on project building.
 
 I'm interested in developing intelligent systems that combine **AI, software, and real-world applications**.
 
