@@ -31,7 +31,7 @@ React · Next.js · FastAPI · Node.js · HTML · CSS · Tailwind CSS
 
 **Database**
 
-MySQL · MariaDB
+MySQL · MongoDB
 
 **Tools & Platforms**
 
@@ -73,7 +73,7 @@ Currently strengthening my foundations in **Python, Data Science, Machine Learni
 
 - 💼 **Portfolio:** [mdfazlerabbi.vercel.app](https://mdfazlerabbi.vercel.app)
 - 💻 **GitHub:** [github.com/Fazle240102](https://github.com/Fazle240102)
-- 📘 **Facebook:** [facebook.com/fazle.rabbi20046](https://www.facebook.com/fazle.rabbi20046)
+- 📘 **Facebook:** [facebook.com/fazle.rabbi20046](https://facebook.com/fazle.rabbi20046)
 
 ---
 
